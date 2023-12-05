@@ -37,14 +37,14 @@
   "screenshots": [
     {
      "src": "screenshot.png",
-      "sizes": "1890x2362",
+      "sizes": "1920x963",
       "type": "image/jpg",
       "form_factor": "wide",
       "label": "Wonder Widgets"
     },
     {
       "src": "screenshot.png",
-       "sizes": "1890x2362",
+       "sizes": "1920x963",
        "type": "image/jpg",
        "form_factor": "narrow",
        "label": "Wonder Widgets"
