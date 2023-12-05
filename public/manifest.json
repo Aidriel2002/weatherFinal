@@ -36,14 +36,14 @@
   "orientation": "portrait",
   "screenshots": [
     {
-     "src": "screenshot.jpg",
+     "src": "screenshot.png",
       "sizes": "1890x2362",
       "type": "image/jpg",
       "form_factor": "wide",
       "label": "Wonder Widgets"
     },
     {
-      "src": "screenshot.jpg",
+      "src": "screenshot.png",
        "sizes": "1890x2362",
        "type": "image/jpg",
        "form_factor": "narrow",
